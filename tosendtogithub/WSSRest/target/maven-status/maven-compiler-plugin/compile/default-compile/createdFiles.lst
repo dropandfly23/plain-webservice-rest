@@ -1,0 +1,7 @@
+service\MessageController.class
+service\Message.class
+generated\ObjectFactory.class
+generated\GetContent.class
+service\Application.class
+generated\Message.class
+service\MessageEndpoint.class
